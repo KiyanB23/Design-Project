@@ -1,0 +1,168 @@
+button {
+    background-color:white;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.logo {
+    font-family:Arial;
+    width:140px;
+    height:400px;
+    font-weight:bold;
+    border-collapse: collapse;
+}
+table tr td {
+    border: 2px black solid;
+    padding: 5px 5px;
+}
+.wordbuttons {
+    padding-left: 27px;
+    padding-right: 27px;
+    font-size: 56.1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border-collapse: collapse;
+}
+.wordbuttonsa {
+    padding-left: 27px;
+    padding-right: 27px;
+    font-size: 56.1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(194, 47, 56);
+    border-collapse: collapse;
+}
+
+.feedback {
+    padding: 2px 4px;
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    position: fixed;
+    left: 1030px;
+    top: 475px;
+}
+a {
+    text-decoration: none;
+}
+.lines {
+    text-align: center;
+    padding: 2px 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.news {
+    position: relative;
+    left:320px;
+    bottom: 430px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:rgb(1, 52, 118);
+}
+.newst {
+    position: relative;
+    left:320px;
+    bottom: 430px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color:rgb(194, 47, 56);
+}
+.back {
+    padding-left: 31px;
+    padding-right: 31px;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.title1 {
+    position: relative;
+    left:320px;
+    bottom: 430px;
+    font-size: 40px;
+}
+.mtlscore {
+    background-color: rgb(194, 47, 56);
+    padding: 30px 50px;
+    margin: 0;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.otherscore {
+    background-color: rgb(108, 173, 227);
+    padding: 30px 50px;
+    margin: 0;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Goalscorers {
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+    text-decoration:underline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(194, 47, 56);
+    font-size: 25px;
+}
+.scorep {
+    position: relative;
+    left: 300px;
+    bottom: 210px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(194, 47, 56);
+    font-size: 15px;
+}
+.ass {
+    position: relative;
+    left: 300px;
+    bottom: 370px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:gray;
+    font-size: 10px;
+    padding:6px 0px;
+}
+table{
+border-collapse: collapse;
+}
+.noc {
+    border-collapse:separate;
+}
+.gameplayer {
+    position:absolute;
+    left: 509.5px;
+    bottom: 110px;
+}
+.playert {
+    position:absolute;
+    left: 510px;
+    bottom: 288px;
+    text-decoration:underline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:gold;
+    font-size: 22px;
+}
+.playergamestat {
+    position:absolute;
+    left: 560px;
+    bottom: 53px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(194, 47, 56);
+    font-size: 25px;
+}
+.playofgame {
+    position: absolute;
+    left: 810px;
+    bottom: 288px;
+    text-decoration:underline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(194, 47, 56);
+    font-size: 22px;
+}
+.clip {
+    position: absolute;
+    left: 730px;
+    bottom: 100px;
+}

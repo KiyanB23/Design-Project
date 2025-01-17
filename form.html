@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<table>
+    <tr>
+    <!--working button to home page whih is index.html--><td><a href="index.html" class="logo"><img src="habslogo.png" alt="habslogo" height="80px" width="120px"></a></td>
+    <td class="wordbuttons"><a href="stats.html" class="wordbuttons">Stats</a></td>
+    <td class="wordbuttons"><a href="salarycap.html" class="wordbuttons">Salary Cap</a></td>
+    <td class="wordbuttons"><a href="recent.html" class="wordbuttons">Recent</a></td>
+</tr>
+</table>
+<title>Basic HTML Form</title>
+<body>
+    <h2>Give feedback or report a problem</h2>
+    <form>
+        <!-- Text Input -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <!-- Email Input -->
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <textarea name="bio" id="bio" cols="30" rows="10" placeholder="Gabriel O' Connell..."></textarea>
+        <br>
+
+        <!-- Dropdown Menu -->
+        <label for="country">Country:</label>
+        <select id="country" name="country">
+            <option value="canada">Canada</option>
+            <option value="usa">United States</option>
+        </select><br><br>
+
+        <!-- Submit Button -->
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
